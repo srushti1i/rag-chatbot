@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+torch
+transformers
+sentence-transformers
+faiss-cpu
+pyngrok
+langchain
+langchain-community
